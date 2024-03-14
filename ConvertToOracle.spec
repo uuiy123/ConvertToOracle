@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['ConvertToOracle.py'],
-             pathex=['D:\\파이썬\\Utility'],
+             pathex=['D:\\파이썬\\Utility\\ConvertToOracle'],
              binaries=[],
              datas=[],
              hiddenimports=[],
